@@ -13,3 +13,12 @@ https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pd
 Keras  
 
 https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf
+
+
+Datacamp Cheatsheet Collection 
+
+https://www.datacamp.com/community/data-science-cheatsheets?page=2
+
+
+
+
