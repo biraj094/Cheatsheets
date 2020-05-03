@@ -20,5 +20,7 @@ Datacamp Cheatsheet Collection
 https://www.datacamp.com/community/data-science-cheatsheets?page=2
 
 
+Markdown Cheatsheet
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
