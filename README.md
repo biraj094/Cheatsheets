@@ -24,3 +24,7 @@ Markdown Cheatsheet
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
+Font awesome (Latex)
+
+http://mirror.neu.edu.cn/CTAN/fonts/fontawesome/doc/fontawesome.pdf
